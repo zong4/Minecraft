@@ -1,21 +1,19 @@
-# Bomber
+# Minecraft
 
-A new game developed by reimagining the core mechanics of Öoo, where players become the bomb itself—using explosive recoil to jump, double-jump, and leap diagonally.
+A new creation that reimagines Minecraft’s classic world-generation core mechanics through Perlin Noise—faithfully reproducing the game’s iconic procedural map system while optimizing terrain logic.
 
-![](./Sources/v1.gif)
+![](./Sources/v1.png)
 
 # Core Features
 
-1. Bomb Interaction System
+1. Perlin Noise-Driven Procedural Generation
 
-# How to Play
-
-* Movement: Press ← A / D → to move left and right.
-* Place Obstacle: Press J or Left Mouse Button.
-* Place Obstacle on the player: Press U.
-* Explode: Press K or Right Mouse Button.
-* Clear Obstacles: Press C.
+2. Biomes based on temperature and humidity
 
 # Upcoming Plans
 
-1. Explosive Obstacle Destruction.
+1. Parallelized Terrain Generation
+
+2. Chunk-Based Loading and Streaming
+
+3. Specific block types and their properties
